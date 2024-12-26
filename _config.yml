@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "행복코딩"
+title                    : "건행코딩"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "bmnbjo"
+name                     : "손재훈"
 description              : "건행^^"
 url                      : "https://bmnbjo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -114,9 +114,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "bmnbjo"
+  name             : "손재훈"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "건행^^"
+  bio              : "bmnbjo"
   location         : "Anywhere"
   email            :
   links:
